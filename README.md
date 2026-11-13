@@ -24,7 +24,6 @@ Models"_ (Under review, 2026).
 - [Audio format](#audio-format)
 - [Transcript format](#transcript-format)
 - [Usage](#usage)
-- [License](#license)
 - [Citation](#citation)
 
 ## Overview
@@ -80,7 +79,6 @@ waveform.
 .
 ├── README.md
 ├── README_zh.md               # Chinese translation of this README
-├── LICENSE
 ├── metadata/
 │   └── index.csv              # one row per subset, machine-readable index
 ├── scripts/
