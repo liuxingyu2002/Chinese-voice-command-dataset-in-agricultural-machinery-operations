@@ -162,16 +162,6 @@ Example (`data/realrec_acc/transcript.txt`):
 ...
 ```
 
-## License
-
-This dataset is released under the **Creative Commons Attribution 4.0
-International License (CC-BY-4.0)**. See [LICENSE](LICENSE).
-
-The synthetic-voice subsets (`sv_acc`, `sv_std`) were generated using iFLYTEK's
-online TTS service and are additionally subject to iFLYTEK's service terms.
-The CC-BY-4.0 license applies to the dataset curation, annotations, and the
-real-voice / background-noise recordings collected by the dataset authors.
-
 ## Citation
 
 If you use this dataset, please cite both the accompanying paper and this
